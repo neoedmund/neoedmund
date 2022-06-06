@@ -1,4 +1,21 @@
-### Hi there 👋
+### ⚡ an open source outlaw ⚡ 
+
+Survival rules:
+
+1. don't make pull-request
+2. make forks
+
+There are all kinds of things in the world, none merge back to origin. Just keep whatever you like.
+
+
+__Don't take rules from people, only obey rules from God.__
+
+
+
+
+
+
+
 
 <!--
 **neoedmund/neoedmund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
