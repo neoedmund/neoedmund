@@ -8,7 +8,7 @@ Survival rules:
 There are all kinds of things in the world, none merge back to origin. Just keep whatever you like.
 
 
-__Don't take rules from people, only obey rules from God.__
+__Don't take rules from people, listen to God.__
 
 
 
