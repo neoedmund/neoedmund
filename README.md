@@ -10,6 +10,15 @@ There are all kinds of things in the world, none merge back to origin. Just keep
 
 __Don't take rules from people, listen to God.__
 
+-----
+neoedmund is a programmer, 
+
+he made a text editor: neoeedit (10+ years, but few users)
+
+he made a computer language: textfrog (only name is published, detail not yet)
+
+interested area: game, Linux, programming languages, and others
+
 
 
 
