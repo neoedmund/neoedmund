@@ -5,7 +5,7 @@ Why no forced 2FA?
 - more inconvenience
 - little gain in "security"
 
-What github gives me
+What github gave me
 - free OSS hosting
 - 400+ stars on my main project `neoeedit`, the text editor
 - Vanity in showing creation
