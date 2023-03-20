@@ -1,6 +1,6 @@
 ### Leaving github
 
-Why not forced 2FA?
+Why no forced 2FA?
 - More personal data
 - more inconvenience
 - little gain in "security"
