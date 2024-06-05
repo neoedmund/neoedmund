@@ -1,4 +1,4 @@
-### Leaving github
+### Leaving github (not yet)
 
 Why no forced 2FA?
 - More personal data
