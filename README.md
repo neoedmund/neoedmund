@@ -22,9 +22,7 @@ he made a computer language: textfrog (only name is published, detail not yet)
 interested area: game, Linux, programming languages, and others
 
 ------
-make donation to me: ETH/POL: 0x4444982544690009a6d3f2c3cb24e3c9b54c1111
 
-Thank you!
 
 
 
@@ -44,4 +42,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+make donation to me: ETH/POL: 0x4444982544690009a6d3f2c3cb24e3c9b54c1111
+
+Thank you!
 -->
